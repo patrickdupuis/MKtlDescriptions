@@ -1,5 +1,5 @@
 (
-deviceName: "QuNeo",
+deviceName: "QUNEO",
 protocol: \midi,
 status: (
     linux: "unknown",
@@ -7,7 +7,7 @@ status: (
     win: "unknown"
 ),
 
-idInfo: "", // not certain what should go here
+idInfo: "QUNEO", // not certain what should go here
 
 elementsDesc: (
     shared: ('midiChan': 0, elementType: \pad, ioType: \in),
