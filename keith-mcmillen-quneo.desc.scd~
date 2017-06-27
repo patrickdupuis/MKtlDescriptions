@@ -48,7 +48,7 @@ elementsDesc: (
             key: \arrow,
             elements: [
                 (
-                    key: \1,
+                    key: \A,
                     elements: [
                         (
                             key: \left,
@@ -86,7 +86,7 @@ elementsDesc: (
                     ]
                 ),
                 (
-                    key: \2,
+                    key: \B,
                     elements: [
                         (
                             key: \left,
@@ -124,7 +124,7 @@ elementsDesc: (
                     ]
                 ),
                 (
-                    key: \3,
+                    key: \C,
                     elements: [
                         (
                             key: \left,
@@ -145,7 +145,7 @@ elementsDesc: (
                     ]
                 ),
                 (
-                    key: \4,
+                    key: \D,
                     elements: [
                         (
                             key: \left,
@@ -175,7 +175,7 @@ elementsDesc: (
                     key: \horizontal,
                     elements: [
                         (
-                            key: \1,
+                            key: \A,
                             elements: [
                                 ( key: \on, midiNum: 0, midiMsgType: \noteOn, spec: \midiVel ),
                                 ( key: \off, midiNum: 0, midiMsgType: \noteOff, spec: \midiVel ),
@@ -184,7 +184,7 @@ elementsDesc: (
                             ]
                         ),
                         (
-                            key: \2,
+                            key: \B,
                             elements: [
                                 ( key: \on, midiNum: 1, midiMsgType: \noteOn, spec: \midiVel ),
                                 ( key: \off, midiNum: 1, midiMsgType: \noteOff, spec: \midiVel ),
@@ -193,7 +193,7 @@ elementsDesc: (
                             ]
                         ),
                         (
-                            key: \3,
+                            key: \C,
                             elements: [
                                 ( key: \on, midiNum: 2, midiMsgType: \noteOn, spec: \midiVel ),
                                 ( key: \off, midiNum: 2, midiMsgType: \noteOff, spec: \midiVel ),
@@ -202,7 +202,7 @@ elementsDesc: (
                             ]
                         ),
                         (
-                            key: \4,
+                            key: \D,
                             elements: [
                                 ( key: \on, midiNum: 3, midiMsgType: \noteOn, spec: \midiVel ),
                                 ( key: \off, midiNum: 3, midiMsgType: \noteOff, spec: \midiVel ),
@@ -216,7 +216,7 @@ elementsDesc: (
                     key: \vertical,
                     elements: [
                         (
-                            key: \1,
+                            key: \A,
                             elements: [
                                 ( key: \on, midiNum: 6, midiMsgType: \noteOn, spec: \midiVel ),
                                 ( key: \off, midiNum: 6, midiMsgType: \noteOff, spec: \midiVel ),
@@ -225,7 +225,7 @@ elementsDesc: (
                             ]
                         ),
                         (
-                            key: \2,
+                            key: \B,
                             elements: [
                                 ( key: \on, midiNum: 7, midiMsgType: \noteOn, spec: \midiVel ),
                                 ( key: \off, midiNum: 7, midiMsgType: \noteOff, spec: \midiVel ),
@@ -234,7 +234,7 @@ elementsDesc: (
                             ]
                         ),
                         (
-                            key: \3,
+                            key: \C,
                             elements: [
                                 ( key: \on, midiNum: 8, midiMsgType: \noteOn, spec: \midiVel ),
                                 ( key: \off, midiNum: 8, midiMsgType: \noteOff, spec: \midiVel ),
@@ -243,7 +243,7 @@ elementsDesc: (
                             ]
                         ),
                         (
-                            key: \4,
+                            key: \D,
                             elements: [
                                 ( key: \on, midiNum: 9, midiMsgType: \noteOn, spec: \midiVel ),
                                 ( key: \off, midiNum: 9, midiMsgType: \noteOff, spec: \midiVel ),
