@@ -45,7 +45,6 @@ elementsDesc: (
                 ( key: \pressure, midiNum: 79, midiMsgType: \control, spec: \midiCC )
             ]
         ),
-        /*
         (
             key: \arrow,
             elements: [
@@ -305,7 +304,6 @@ elementsDesc: (
                 )
             }
         ),
-        */
     ]
 ),
 
