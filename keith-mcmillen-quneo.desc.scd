@@ -1,6 +1,7 @@
 (
 deviceName: "QUNEO",
 protocol: \midi,
+deviceType: \launchpad,
 status: (
     linux: "unknown",
     osx: "unknown",
