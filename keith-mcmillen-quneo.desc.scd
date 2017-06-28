@@ -8,7 +8,7 @@ status: (
     win: "unknown"
 ),
 
-idInfo: "QUNEO", // not certain what should go here
+idInfo: "QUNEO",
 
 elementsDesc: (
     shared: ( midiChan: 0, elementType: \pad, ioType: \in ),
