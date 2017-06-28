@@ -291,7 +291,7 @@ elementsDesc: (
         ),
         (
             key: \pad,
-            elements:  (36..51) +++ (23..70).clump(3).collect { | midiNum, index |
+            elements: ((36..51) +++ (23..70)).clump(3).collect { | midiNum, index |
                 (
                     key: (index+1).asSymbol,
                     elements: [
