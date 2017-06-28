@@ -18,7 +18,7 @@ elementsDesc: (
             elements: [
                 ( key: \on, midiNum: 26, midiMsgType: \noteOn, spec: \midiVel ),
                 ( key: \off, midiNum: 26, midiMsgType: \noteOff, spec: \midiVel ),
-                ( key: \pressure, midiNum: 0, midiMsgType: \control, spec: \midiCC )
+                ( key: \pressure, midiNum: 86, midiMsgType: \control, spec: \midiCC )
             ]
         ),
         (
@@ -26,15 +26,15 @@ elementsDesc: (
             elements: [
                 ( key: \on, midiNum: 25, midiMsgType: \noteOn, spec: \midiVel ),
                 ( key: \off, midiNum: 25, midiMsgType: \noteOff, spec: \midiVel ),
-                ( key: \pressure, midiNum: 1, midiMsgType: \control, spec: \midiCC )
+                ( key: \pressure, midiNum: 85, midiMsgType: \control, spec: \midiCC )
             ]
         ),
         (
-            key: \stop,
+            key: \rec,
             elements: [
-                ( key: \on, midiNum: 25, midiMsgType: \noteOn, spec: \midiVel ),
-                ( key: \off, midiNum: 25, midiMsgType: \noteOff, spec: \midiVel ),
-                ( key: \pressure, midiNum: 1, midiMsgType: \control, spec: \midiCC )
+                ( key: \on, midiNum: 24, midiMsgType: \noteOn, spec: \midiVel ),
+                ( key: \off, midiNum: 24, midiMsgType: \noteOff, spec: \midiVel ),
+                ( key: \pressure, midiNum: 84, midiMsgType: \control, spec: \midiCC )
             ]
         ),
         (
@@ -45,6 +45,7 @@ elementsDesc: (
                 ( key: \pressure, midiNum: 79, midiMsgType: \control, spec: \midiCC )
             ]
         ),
+        /*
         (
             key: \arrow,
             elements: [
@@ -304,6 +305,7 @@ elementsDesc: (
                 )
             }
         ),
+        */
     ]
 ),
 
